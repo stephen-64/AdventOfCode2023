@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Stephen"
+	],
+	"copyright": "Copyright © 2023, Stephen",
+	"description": "Day 7 Solution for Advent Of Code",
+	"license": "proprietary",
+	"name": "day7"
+}
